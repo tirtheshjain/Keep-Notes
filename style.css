@@ -1,0 +1,12 @@
+.card-body .edit-box{
+    display: none;
+}
+.addedNotes .editMode textarea{
+    display: block;
+    outline: none;
+    overflow: hidden;
+    resize: none;
+}
+.addedNotes .editMode p{
+    display: none;
+}
